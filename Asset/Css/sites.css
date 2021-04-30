@@ -1,0 +1,94 @@
+
+body 
+{
+    color: wheat;
+    background-color: bisque;
+    background-image: url(/Asset/Images/img05.jpg);
+}
+
+#body-album
+{
+    background-color: yellow;
+}
+
+/* css pour bar de navigation */
+body header nav li a
+{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+#img-nav
+{
+    margin-bottom: 15px;
+}
+#nav-li-principal
+{
+    margin-right: 80px;
+    font-size: 30px;
+}
+body header nav li
+{
+    display: inline;
+    margin-right: 25px;
+    margin-left: 20px;
+}
+body nav
+{
+    background-color: blanchedalmond;
+    height: 45px;
+    /* margin-bottom: 30px; */
+}
+
+/* css pour floter la division left-box-colonne a gauche */
+.left-box-colonne
+{
+    margin-left: 50px;
+    float: left;
+    margin-right: 20px;
+    height: 700px;
+    width: 250px;
+
+}
+/* css pour modifier apparence des elements dans la colonne de gauche, la colonne left-box-colonne */
+.line-box-colonne a
+{
+    text-decoration: none;
+    color: white;
+}
+
+/* css pour floter le container de droite a droite, on l'a floter a gauche tout comme la division qui la precede. */
+.right-box-container
+{
+
+    float: left;
+    width: 1000px;
+    height: 1000px;
+    padding-left: 25px;
+}
+/* arrangement de la partie droite de la page */
+.line-box
+{
+    width: 1000px;
+    float: left;
+    padding-bottom: 25px;
+}
+.block-box-container
+{ 
+    
+    float: left;
+    width: 300px;
+    margin-right: 15px;
+}
+/* css pour apparence du texte pour chaque site tourristiques */
+.text-description
+{
+    text-align: justify;
+}
+.title-box-container
+{
+    text-decoration: underline;
+    color: rgb(252, 251, 250);
+    
+}

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music</title>
+    <link rel="stylesheet" href="/Asset/Css/music.css">
+</head>
+<body>
+    <header id="nav">
+        <nav>
+        <ul id="navlist">
+            <li id="liprincipal"><span id="innovation"><img src="/Asset/Images/Monogram-HT-Logo-Design-by-Greenlines-Studios-580x387.png" style="width: 30px; height: 30px;"> Ayiti</span> <span id="tourishead">Touris</span><li>
+            <li class="linav"><a href="/index.html">Acceuil</a></li>
+            <li class="linav"><a href="#">Lieux tourristique</a></li>
+            <li class="linav"><a href="/music.html">Music Haitienne</a></li>
+            <li class="linav"><a href="#">Food</a></li>
+            <li class="linav"><a href="#">A propos</a></li>
+        </ul>
+        </nav>
+    </header>
+
+    <div id="content">
+        <div id="colonne1">
+            <h1 class="title-content-type">Evenement musicales a venir</h1>
+            <p><img src="/Asset/Images/large_large_Support_eng-1572210616-1572497917.jpg" style="width: 200px;">&nbsp; Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas labore, architecto ipsum, non laboriosam corporis quaerat consequuntur voluptate maiores distinctio quisquam ipsa sit? Quidem animi, accusamus quod architecto corporis totam? Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, deserunt ut. Animi ut illo tempsedoribus, totam ea facilis </p>
+
+            <p><img src="/Asset/Images/large_large_Support_eng-1572210616-1572497917.jpg" style="width: 200px;">&nbsp; Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas labore, architecto ipsum, non laboriosam corporis quaerat consequuntur voluptate maiores distinctio quisquam ipsa sit? Quidem animi, accusamus quod architecto corporis totam? Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, deserunt ut. Animi ut illo tempsedoribus, totam ea facilis </p>
+
+
+            
+            <h1 class="title-content-type">Evenement recents</h1>
+            
+            <p><img src="/Asset/Images/large_large_Support_eng-1572210616-1572497917.jpg" style="width: 200px;">&nbsp; Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas labore, architecto ipsum, non laboriosam corporis quaerat consequuntur voluptate maiores distinctio quisquam ipsa sit? Quidem animi, accusamus quod architecto corporis totam? Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, deserunt ut. Animi ut illo tempsedoribus, totam ea facilis </p>
+        </div>
+
+        <div id="colonne2">
+            <h1 class="title-content-type">Musique Classiques</h1>
+            <p class="title-song">Faites du bruit</p>
+            <audio controls="controls" src="/Asset/Audio/01 - Faites du bruit.mp3" type="audio/mp3"></audio>
+            <p id="lyric-song">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas labore, architecto ipsum, non laboriosam corporis quae[...]</p>
+            <p><a href="#" class="lyric-links"><img src="/Asset/Images/img08.gif"> Plus de lyrics ...</a>   <a href="#" class="lyric-links"><img src="/Asset/Images/img08.gif"> Acheter l'album ...</p></a>
+
+            <p class="title-song">Se nou</p>
+            <audio controls="controls" src="/Asset/Audio/09 - Se nou.mp3" type="audio/mp3"></audio>
+            <p id="lyric-song">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas labore, architecto ipsum, non laboriosam corporis quae[...]</p>
+            <p><a href="#" class="lyric-links"><img src="/Asset/Images/img08.gif"> Plus de lyrics ...</a>   <a href="#" class="lyric-links"><img src="/Asset/Images/img08.gif"> Acheter l'album ...</p></a>
+
+            <p class="title-song">Introspection</p>
+            <audio controls="controls" src="/Asset/Audio/05 - Introspection.mp3" type="audio/mp3"></audio>
+            <p id="lyric-song">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas labore, architecto ipsum, non laboriosam corporis quae[...]</p>
+            <p><a href="#" class="lyric-links"><img src="/Asset/Images/img08.gif"> Plus de lyrics ...</a>   <a href="#" class="lyric-links"><img src="/Asset/Images/img08.gif"> Acheter l'album ...</p></a>
+
+            
+                
+
+        </div>
+          
+
+        
+
+
+    </div>
+</body>
+</html>
